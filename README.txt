@@ -23,6 +23,7 @@
 # This project is coded in python3 and requires the following packages:
 # subprocess   --> installation: pip3 install subprocess
 # netaddr      --> installation: pip3 install netaddr
+# colorama     --> installation: pip3 install colorama
 
 # Download and run SubNet from command line:
 # git clone https://github.com/rpanov/SubNetr.git
