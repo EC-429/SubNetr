@@ -24,6 +24,10 @@
 # subprocess   --> installation: pip3 install subprocess
 # netaddr      --> installation: pip3 install netaddr
 
+# Download and run SubNet from command line:
+# git clone https://github.com/rpanov/SubNetr.git
+# $python3 SubNetr.py -h
+
 # Later versions of this project will be ported to different environments, but for now is only 
 # capable of being run linux/Mac OSx environments.
 
