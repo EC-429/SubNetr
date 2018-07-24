@@ -32,6 +32,6 @@
 # Later versions of this project will be ported to different environments, but for now is only 
 # capable of being run linux/Mac OSx environments.
 
-# Please feel free so give advice, ideas, and opinions on how it can be improved!
+# Please feel free to give advice, ideas, and opinions on how it can be improved!
 
 # Thanks.
